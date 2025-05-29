@@ -10,7 +10,7 @@ TO-bot is a Discord bot designed to help Tournament Organizers (TOs) stay on top
 ## Setup
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/HannahConnolly/TO-bot
    cd TO-bot
    ```
 2. **Create a virtual environment (optional but recommended):**
@@ -20,7 +20,7 @@ TO-bot is a Discord bot designed to help Tournament Organizers (TOs) stay on top
    ```
 3. **Install dependencies:**
    ```sh
-   pip install discord.py
+   pip install -r requirements.txt
    ```
 4. **Configure your bot:**
    - Create a new Discord bot at https://discord.com/developers/applications

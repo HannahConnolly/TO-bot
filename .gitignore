@@ -74,3 +74,6 @@ Pipfile.lock
 venv/
 env/
 ve/
+
+# Environment variables
+.env
