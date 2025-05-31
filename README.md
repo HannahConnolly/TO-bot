@@ -28,6 +28,7 @@ TO-bot is a Discord bot designed to help Tournament Organizers (TOs) stay on top
 
 5. **Run the bot:**
    ```sh
+   source venv/bin/activate
    python main.py
    ```
 
